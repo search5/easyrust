@@ -1,0 +1,1 @@
+pub fn entry(&mut self, key: K) -> Entry<K, V> // 🚧

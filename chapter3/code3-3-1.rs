@@ -1,0 +1,2 @@
+struct FileDirectory;
+fn main() {}

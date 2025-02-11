@@ -1,0 +1,1 @@
+let four = my_vec.get(3).unwrap_or_else(|| &0);
